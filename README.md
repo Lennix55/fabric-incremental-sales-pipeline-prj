@@ -56,7 +56,18 @@ Raw Files → Bronze → Silver → Gold
 
 The pipeline processes new sales data without reprocessing historical files, simulating real enterprise data engineering workflows.
 
----
+<img width="1823" height="907" alt="image" src="https://github.com/user-attachments/assets/b743f3bc-a583-43b1-82c1-26f5b48a48ac" />
+<img width="1791" height="423" alt="image" src="https://github.com/user-attachments/assets/a7d1e8d2-6cca-4477-b01b-729067d9e702" />
+<img width="1375" height="748" alt="image" src="https://github.com/user-attachments/assets/bafd3ddc-ce13-4132-9be6-840315056ca2" />
+<img width="1409" height="378" alt="image" src="https://github.com/user-attachments/assets/bb590477-6bb6-43c6-b823-ab1c2fad42fe" />
+
+
+
+
+
+
+
+
 
 ## Author
 Lennix Stevens
